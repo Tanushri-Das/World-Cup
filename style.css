@@ -89,22 +89,22 @@ header{
         grid-gap:30px;
         
 }
-.button button{
-    padding: 15px 14px;
+.button a{
+    text-decoration: none;
+    color: white;
+    padding:15px 24px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+.button .white-btn{
+    color: black;
 }
 .button .red-btn{
     background-color: red;
     border: none;
-    
-}
-.button .red-btn a{
     color: white;
-}
-button a{
     
-    text-decoration: none;
-    color: black;
-   font-size: 16px;
 }
 .blogs{
         display: grid;
@@ -332,7 +332,7 @@ footer ul{
           padding-right: 0;
     }
     footer hr{
-        width:350px;
+        width:340px;
     
     }
     .footer-content .footer-content-details{
@@ -388,10 +388,10 @@ footer ul{
 
         border: none;
     }
-    .button button{
+    .button a{
         padding: 15px 68px;
     }
-    button a{
+    .button a{
     font-size:14px;
     }
     .blogs{
