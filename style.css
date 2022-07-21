@@ -294,7 +294,7 @@ footer ul{
     }
     .watch-btn{
         text-align:center;
-        margin-left:40px; 
+        margin-left:30px; 
     }
     .banner-left p{
         text-align:center;
@@ -362,7 +362,7 @@ footer ul{
     }
     .banner-left p{
         font-size:14px;
-        padding-bottom: 20px;
+        padding-bottom:30px;
     }
     .blog img{
    
@@ -425,5 +425,8 @@ footer ul{
   footer hr{
       width:490px;
   
+  }
+  .social-media-icons li{
+    font-size: 20px;
   }
 }
