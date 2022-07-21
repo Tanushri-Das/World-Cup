@@ -290,6 +290,8 @@ footer ul{
     header{
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .banner-left h1{
         text-align:center;
