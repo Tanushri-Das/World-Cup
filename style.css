@@ -322,7 +322,7 @@ footer ul{
         margin: 0 auto;
     }
     .all-buttons a{
-        border: 1px solid gray;
+        border:2px solid gray;
     }
     .blogs{
         display: grid;
@@ -392,11 +392,13 @@ footer ul{
 
         border: none;
     }
-    .button a{
+    .all-buttons a{
         padding: 15px 68px;
+        font-size:14px;
+        
     }
-    .button a{
-    font-size:14px;
+    .button .gray-btn{
+        border:2px solid red;
     }
     .blogs{
         display: grid;
