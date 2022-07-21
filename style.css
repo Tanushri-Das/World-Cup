@@ -316,10 +316,13 @@ footer ul{
         
     }
     .all-buttons{
-        border: 1px solid gray;
-        /* background-color:white; */
+       
+        background-color:white;
         text-align: center;
         margin: 0 auto;
+    }
+    .all-buttons a{
+        border: 1px solid gray;
     }
     .blogs{
         display: grid;
