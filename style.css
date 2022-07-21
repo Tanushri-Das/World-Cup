@@ -297,9 +297,11 @@ footer ul{
     }
     .watch-btn{
         text-align:center;
+        margin: 0 auto;
     }
-    .banner-left p,.watch-btn{
+    .banner-left p{
         text-align:center;
+
     }
     header{
         padding-top: 5%;
