@@ -394,11 +394,14 @@ footer ul{
     }
     .all-buttons a{
         padding: 15px 68px;
-        font-size:14px;
+        
         
     }
+    .button a{
+        font-size:18px;
+    }
     .button .gray-btn{
-        border:2px solid red;
+        border:2px solid gray;
     }
     .blogs{
         display: grid;
