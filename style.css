@@ -290,8 +290,7 @@ footer ul{
     header{
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
+       
     }
     .banner-left h1{
         text-align:center;
@@ -355,6 +354,7 @@ footer ul{
     header{
    
         padding-bottom: 20px;
+        margin:50px 0 82px;
         
     }
     
@@ -424,7 +424,7 @@ footer ul{
     }
    
   footer hr{
-      width:490px;
+      width:510px;
   
   }
 }
