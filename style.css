@@ -294,7 +294,7 @@ footer ul{
     }
     .watch-btn{
         text-align:center;
-        margin-right: 20px;
+        margin-left:-50px; 
     }
     .banner-left p{
         text-align:center;
